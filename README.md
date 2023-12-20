@@ -1,1 +1,3 @@
 # BubbleSort
+
+Bubble sort algorithm 
