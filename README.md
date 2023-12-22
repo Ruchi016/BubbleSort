@@ -1,3 +1,3 @@
-# BubbleSort
+# Searching and sorting algorithms
 
-Bubble sort algorithm 
+Searching and sorting algorithms.
